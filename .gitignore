@@ -1,1 +1,5 @@
 .idea
+env/*
+
+.DS_Store
+Classes/__pycache__/
